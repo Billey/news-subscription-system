@@ -1,0 +1,37 @@
+{
+  "news": [
+    {
+      "id": 100,
+      "title": "Dr. William Foege, leader in smallpox eradication, dies - ABC News",
+      "content": "The 6-foot-7 inch Foege literally stood out in the field of public health.",
+      "category": "国际新闻",
+      "publish_date": "2026-01-26",
+      "created_at": "2026-01-27T15:25:33.042195"
+    },
+    {
+      "id": 101,
+      "title": "Sean McVay on whether he expects Matthew Stafford back: \"What the hell kind of question is that?\" - NBC Sports",
+      "content": "Said Stafford: \"I can't generalize six months of my life ten minutes after a loss.\"",
+      "category": "国际新闻",
+      "publish_date": "2026-01-26",
+      "created_at": "2026-01-27T15:25:33.042203"
+    },
+    {
+      "id": 102,
+      "title": "Iran Is Selling More Oil but Making Less Money - The Wall Street Journal",
+      "content": "Middlemen and buyers take advantage of embattled regime’s limited options for unloading crude",
+      "category": "国际新闻",
+      "publish_date": "2026-01-26",
+      "created_at": "2026-01-27T15:25:33.042204"
+    },
+    {
+      "id": 103,
+      "title": "Inside Apple’s AI Shake-Up and Its Plans for Two New Versions of Siri - Bloomberg.com",
+      "content": "Apple shakes up its AI efforts with a Google partnership, management changes and two new versions of Siri. Also: The company gets ready to kick off its 2026 Mac launches and puts CEO candidate John Ternus in charge of design.",
+      "category": "国际新闻",
+      "publish_date": "2026-01-26",
+      "created_at": "2026-01-27T15:25:33.042206"
+    }
+  ],
+  "last_updated": "2026-01-27T15:25:33.043072"
+}

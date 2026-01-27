@@ -1,0 +1,16 @@
+{
+  "email": {
+    "smtp_server": "smtp.qq.com",
+    "smtp_port": 465,
+    "sender_email": "1093926117@qq.com",
+    "sender_password": "amfivujlopzrjbaf",
+    "subject": "每日新闻"
+  },
+  "news_api": {
+    "api_key": "fabce9fea6a545cab936daaaeb9cf95d"
+  },
+  "schedule": {
+    "hour": 9,
+    "minute": 0
+  }
+}
