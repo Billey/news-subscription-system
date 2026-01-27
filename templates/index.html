@@ -58,6 +58,12 @@
         <button onclick="subscribe()">订阅</button>
     </div>
     
+    <hr>
+    
+    <div class="form-group">
+        <button onclick="sendNews()" style="background-color: #2196F3;">立即发送新闻</button>
+    </div>
+    
     <div id="message" class="message" style="display: none;"></div>
     
     <script>
@@ -88,6 +94,28 @@
             })
             .catch(error => {
                 showMessage('订阅失败，请稍后重试', 'error');
+            });
+        }
+        
+        function sendNews() {
+            const message = document.getElementById('message');
+            
+            fetch('/send-news', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    showMessage(data.message, 'success');
+                } else {
+                    showMessage(data.message, 'error');
+                }
+            })
+            .catch(error => {
+                showMessage('发送失败，请稍后重试', 'error');
             });
         }
         

@@ -284,6 +284,15 @@ def unsubscribe():
     save_subscribers(subscribers)
     return jsonify({"status": "success", "message": "取消订阅成功"}), 200
 
+# 手动发送邮件接口
+@app.route('/send-news', methods=['POST'])
+def send_news_manual():
+    try:
+        send_daily_news()
+        return jsonify({"status": "success", "message": "邮件发送成功！"}), 200
+    except Exception as e:
+        return jsonify({"status": "error", "message": f"邮件发送失败: {str(e)}"}), 500
+
 # 前端页面
 @app.route('/')
 def index():
