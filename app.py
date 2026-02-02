@@ -11,22 +11,33 @@ import os
 import logging
 
 # 配置日志
-log_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'app.log')
+handlers = []
 
-# 创建文件处理器，指定UTF-8编码
-file_handler = logging.FileHandler(log_file, encoding='utf-8')
-file_handler.setLevel(logging.INFO)
-file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+# 尝试创建文件处理器（仅在可写环境中）
+try:
+    log_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'app.log')
+    # 测试文件是否可写
+    with open(log_file, 'a') as f:
+        pass
+    # 创建文件处理器，指定UTF-8编码
+    file_handler = logging.FileHandler(log_file, encoding='utf-8')
+    file_handler.setLevel(logging.INFO)
+    file_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+    handlers.append(file_handler)
+except (OSError, PermissionError):
+    # 在只读环境中（如Vercel），只使用流处理器
+    pass
 
 # 创建流处理器
 stream_handler = logging.StreamHandler()
 stream_handler.setLevel(logging.INFO)
 stream_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+handlers.append(stream_handler)
 
 # 配置根日志记录器
 logging.basicConfig(
     level=logging.INFO,
-    handlers=[file_handler, stream_handler]
+    handlers=handlers
 )
 logger = logging.getLogger(__name__)
 
@@ -69,9 +80,14 @@ def save_subscribers(data):
         with open(subscribers_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
         logger.info(f"订阅用户保存成功，共 {len(data.get('subscribers', []))} 个用户")
+        return True
+    except (OSError, PermissionError) as e:
+        # 在只读环境中（如Vercel），记录错误但不抛出异常
+        logger.warning(f"订阅用户保存失败（只读环境）: {e}")
+        return False
     except Exception as e:
         logger.error(f"订阅用户保存失败: {e}")
-        raise
+        return False
 
 # 保存新闻内容
 def save_news(news_data):
@@ -81,9 +97,14 @@ def save_news(news_data):
         with open(news_path, 'w', encoding='utf-8') as f:
             json.dump(news_data, f, ensure_ascii=False, indent=2)
         logger.info(f"新闻内容保存成功，共 {len(news_data.get('news', []))} 条新闻")
+        return True
+    except (OSError, PermissionError) as e:
+        # 在只读环境中（如Vercel），记录错误但不抛出异常
+        logger.warning(f"新闻内容保存失败（只读环境）: {e}")
+        return False
     except Exception as e:
         logger.error(f"新闻内容保存失败: {e}")
-        raise
+        return False
 
 # 发送邮件
 def send_email(to_email, subject, content):
@@ -452,4 +473,7 @@ scheduler.add_job(send_daily_news, 'cron', hour=9, minute=0)  # 每天早上9:00
 scheduler.start()
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # 支持Vercel环境的端口配置
+    port = int(os.environ.get('PORT', 5000))
+    debug = os.environ.get('FLASK_ENV', 'development') == 'development'
+    app.run(debug=debug, host='0.0.0.0', port=port)

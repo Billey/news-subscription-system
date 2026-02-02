@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+*.json
+subscribers.json
+news.json
+config.json
+test_*.py
+send_news.py
