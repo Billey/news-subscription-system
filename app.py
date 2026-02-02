@@ -7,30 +7,38 @@ from apscheduler.schedulers.background import BackgroundScheduler
 import datetime
 import requests
 from bs4 import BeautifulSoup
+import os
 
 app = Flask(__name__)
 
+# 获取项目根目录
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+
 # 加载配置
 def load_config():
-    with open('config.json', 'r', encoding='utf-8') as f:
+    config_path = os.path.join(PROJECT_ROOT, 'config.json')
+    with open(config_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 # 加载订阅用户
 def load_subscribers():
     try:
-        with open('subscribers.json', 'r', encoding='utf-8') as f:
+        subscribers_path = os.path.join(PROJECT_ROOT, 'subscribers.json')
+        with open(subscribers_path, 'r', encoding='utf-8') as f:
             return json.load(f)
     except:
         return {"subscribers": []}
 
 # 保存订阅用户
 def save_subscribers(data):
-    with open('subscribers.json', 'w', encoding='utf-8') as f:
+    subscribers_path = os.path.join(PROJECT_ROOT, 'subscribers.json')
+    with open(subscribers_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 # 保存新闻内容
 def save_news(news_data):
-    with open('news.json', 'w', encoding='utf-8') as f:
+    news_path = os.path.join(PROJECT_ROOT, 'news.json')
+    with open(news_path, 'w', encoding='utf-8') as f:
         json.dump(news_data, f, ensure_ascii=False, indent=2)
 
 # 发送邮件
