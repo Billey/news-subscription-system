@@ -1,0 +1,374 @@
+2026-02-02 10:41:22,889 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:41:22,894 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:41:22,894 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:41:22,908 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:41:22,913 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:41:40,714 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:41:41,350 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:41:41,353 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:41:41,353 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:41:41,367 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:41:41,373 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:42:00,254 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:42:00,884 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:42:00,886 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:42:00,886 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:42:00,902 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:42:00,907 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:42:07,682 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:42:07] "GET /?ide_webview_request_time=1769498230831 HTTP/1.1" 200 -
+2026-02-02 10:42:07,829 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:42:07] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:42:11,205 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:42:11] "GET /?ide_webview_request_time=1769498230831 HTTP/1.1" 200 -
+2026-02-02 10:42:11,454 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:42:11] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:42:15,448 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:42:15] "GET /?ide_webview_request_time=1769498230831 HTTP/1.1" 200 -
+2026-02-02 10:42:15,930 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:42:15] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:42:17,232 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:42:17] "GET /?ide_webview_request_time=1769498230831 HTTP/1.1" 200 -
+2026-02-02 10:42:17,707 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:42:17] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:42:23,051 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:42:23,603 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:42:23,605 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:42:23,605 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:42:23,618 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:42:23,624 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:42:40,434 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:42:40,910 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:42:40,911 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:42:40,911 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:42:40,923 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:42:40,927 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:42:51,396 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:42:51,879 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:42:51,880 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:42:51,880 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:42:51,891 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:42:51,895 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:43:13,836 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:43:14,336 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:43:14,339 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:43:14,340 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:43:14,352 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:43:14,356 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:43:27,968 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:43:28,446 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:43:28,448 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:43:28,448 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:43:28,462 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:43:28,468 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:43:47,304 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:43:47,917 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:43:47,919 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:43:47,919 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:43:47,934 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:43:47,940 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:44:03,732 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:44:03] "GET /?ide_webview_request_time=1769498230831 HTTP/1.1" 200 -
+2026-02-02 10:44:03,993 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:44:03] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:44:06,103 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ÊµÊ±ĞÂÎÅ...
+2026-02-02 10:44:06,111 - __main__ - INFO - »ñÈ¡¹úÄÚĞÂÎÅ...
+2026-02-02 10:44:06,111 - __main__ - INFO - ¿ªÊ¼ÅÀÈ¡ĞÂÀËĞÂÎÅ...
+2026-02-02 10:44:06,112 - __main__ - INFO - ÇëÇóURL: https://news.sina.com.cn/china/
+2026-02-02 10:44:06,454 - __main__ - ERROR - ĞÂÀËĞÂÎÅÅÀÈ¡Ê§°Ü: ('Connection aborted.', ConnectionResetError(10054, 'Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£', None, 10054, None))
+2026-02-02 10:44:06,454 - __main__ - INFO - »ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:44:06,454 - __main__ - INFO - ¿ªÊ¼»ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:44:06,454 - __main__ - INFO - ¼ÓÔØÅäÖÃÎÄ¼ş: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:44:06,455 - __main__ - INFO - ÅäÖÃÎÄ¼ş¼ÓÔØ³É¹¦
+2026-02-02 10:44:06,455 - __main__ - INFO - ÇëÇóNewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:44:06,455 - __main__ - INFO - ÇëÇó²ÎÊı: country=us, pageSize=5
+2026-02-02 10:44:06,817 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:44:07,284 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:44:07,285 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:44:07,285 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:44:07,299 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:44:07,303 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:44:07,362 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ÊµÊ±ĞÂÎÅ...
+2026-02-02 10:44:07,363 - __main__ - INFO - »ñÈ¡¹úÄÚĞÂÎÅ...
+2026-02-02 10:44:07,363 - __main__ - INFO - ¿ªÊ¼ÅÀÈ¡ĞÂÀËĞÂÎÅ...
+2026-02-02 10:44:07,363 - __main__ - INFO - ÇëÇóURL: https://news.sina.com.cn/china/
+2026-02-02 10:44:07,725 - __main__ - ERROR - ĞÂÀËĞÂÎÅÅÀÈ¡Ê§°Ü: ('Connection aborted.', ConnectionResetError(10054, 'Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£', None, 10054, None))
+2026-02-02 10:44:07,725 - __main__ - INFO - »ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:44:07,725 - __main__ - INFO - ¿ªÊ¼»ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:44:07,726 - __main__ - INFO - ¼ÓÔØÅäÖÃÎÄ¼ş: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:44:07,726 - __main__ - INFO - ÅäÖÃÎÄ¼ş¼ÓÔØ³É¹¦
+2026-02-02 10:44:07,726 - __main__ - INFO - ÇëÇóNewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:44:07,727 - __main__ - INFO - ÇëÇó²ÎÊı: country=us, pageSize=5
+2026-02-02 10:44:17,735 - __main__ - ERROR - ¹ú¼ÊĞÂÎÅ»ñÈ¡Ê§°Ü: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/top-headlines?country=us&apiKey=fabce9fea6a545cab936daaaeb9cf95d&pageSize=5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000014CD71125D0>, 'Connection to newsapi.org timed out. (connect timeout=10)'))
+2026-02-02 10:44:17,736 - __main__ - INFO - ĞÂÎÅºÏ²¢Íê³É£¬¹² 0 ÌõĞÂÎÅ
+2026-02-02 10:44:17,782 - __main__ - INFO - ±£´æĞÂÎÅÄÚÈİµ½ÎÄ¼ş: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 10:44:17,783 - __main__ - INFO - ĞÂÎÅÄÚÈİ±£´æ³É¹¦£¬¹² 0 ÌõĞÂÎÅ
+2026-02-02 10:44:17,783 - __main__ - INFO - ÊµÊ±ĞÂÎÅ»ñÈ¡Íê³É
+2026-02-02 10:44:17,783 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:44:17] "GET /get-news HTTP/1.1" 200 -
+2026-02-02 10:44:23,053 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:44:23,566 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:44:23,568 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:44:23,569 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:44:23,585 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:44:23,590 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:44:28,898 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:44:29,384 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:44:29,386 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:44:29,386 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:44:29,399 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:44:29,406 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:44:55,319 - __main__ - INFO - ÊÕµ½Ç°¶ËÒ³Ãæ·ÃÎÊÇëÇó
+2026-02-02 10:44:55,324 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:44:55] "GET /?ide_webview_request_time=1769498230831 HTTP/1.1" 200 -
+2026-02-02 10:44:55,822 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:44:55] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:44:56,924 - __main__ - INFO - ÊÕµ½»ñÈ¡ĞÂÎÅÁĞ±íÇëÇó
+2026-02-02 10:44:56,975 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ĞÂÎÅÁĞ±í...
+2026-02-02 10:44:56,975 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ÊµÊ±ĞÂÎÅ...
+2026-02-02 10:44:56,975 - __main__ - INFO - »ñÈ¡¹úÄÚĞÂÎÅ...
+2026-02-02 10:44:56,976 - __main__ - INFO - ¿ªÊ¼ÅÀÈ¡ĞÂÀËĞÂÎÅ...
+2026-02-02 10:44:56,976 - __main__ - INFO - ÇëÇóURL: https://news.sina.com.cn/china/
+2026-02-02 10:44:57,268 - __main__ - ERROR - ĞÂÀËĞÂÎÅÅÀÈ¡Ê§°Ü: ('Connection aborted.', ConnectionResetError(10054, 'Ô¶³ÌÖ÷»úÇ¿ÆÈ¹Ø±ÕÁËÒ»¸öÏÖÓĞµÄÁ¬½Ó¡£', None, 10054, None))
+2026-02-02 10:44:57,269 - __main__ - INFO - »ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:44:57,269 - __main__ - INFO - ¿ªÊ¼»ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:44:57,269 - __main__ - INFO - ¼ÓÔØÅäÖÃÎÄ¼ş: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:44:57,270 - __main__ - INFO - ÅäÖÃÎÄ¼ş¼ÓÔØ³É¹¦
+2026-02-02 10:44:57,270 - __main__ - INFO - ÇëÇóNewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:44:57,270 - __main__ - INFO - ÇëÇó²ÎÊı: country=us, pageSize=5
+2026-02-02 10:45:07,283 - __main__ - ERROR - ¹ú¼ÊĞÂÎÅ»ñÈ¡Ê§°Ü: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/top-headlines?country=us&apiKey=fabce9fea6a545cab936daaaeb9cf95d&pageSize=5 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000278614C3C50>, 'Connection to newsapi.org timed out. (connect timeout=10)'))
+2026-02-02 10:45:07,283 - __main__ - INFO - ĞÂÎÅºÏ²¢Íê³É£¬¹² 0 ÌõĞÂÎÅ
+2026-02-02 10:45:07,283 - __main__ - INFO - ±£´æĞÂÎÅÄÚÈİµ½ÎÄ¼ş: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 10:45:07,284 - __main__ - INFO - ĞÂÎÅÄÚÈİ±£´æ³É¹¦£¬¹² 0 ÌõĞÂÎÅ
+2026-02-02 10:45:07,284 - __main__ - INFO - ÊµÊ±ĞÂÎÅ»ñÈ¡Íê³É
+2026-02-02 10:45:07,284 - __main__ - INFO - »ñÈ¡ĞÂÎÅÁĞ±í³É¹¦£¬¹² 0 ÌõĞÂÎÅ
+2026-02-02 10:45:07,285 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:45:07] "GET /get-news HTTP/1.1" 200 -
+2026-02-02 10:45:13,701 - __main__ - INFO - ÊÕµ½»ñÈ¡ĞÂÎÅÁĞ±íÇëÇó
+2026-02-02 10:45:13,702 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ĞÂÎÅÁĞ±í...
+2026-02-02 10:45:13,702 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ÊµÊ±ĞÂÎÅ...
+2026-02-02 10:45:13,702 - __main__ - INFO - »ñÈ¡¹úÄÚĞÂÎÅ...
+2026-02-02 10:45:13,702 - __main__ - INFO - ¿ªÊ¼ÅÀÈ¡ĞÂÀËĞÂÎÅ...
+2026-02-02 10:45:13,702 - __main__ - INFO - ÇëÇóURL: https://news.sina.com.cn/china/
+2026-02-02 10:45:23,723 - __main__ - ERROR - ĞÂÀËĞÂÎÅÅÀÈ¡Ê§°Ü: HTTPSConnectionPool(host='news.sina.com.cn', port=443): Max retries exceeded with url: /china/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-02-02 10:45:23,723 - __main__ - INFO - »ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:45:23,723 - __main__ - INFO - ¿ªÊ¼»ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:45:23,724 - __main__ - INFO - ¼ÓÔØÅäÖÃÎÄ¼ş: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:45:23,724 - __main__ - INFO - ÅäÖÃÎÄ¼ş¼ÓÔØ³É¹¦
+2026-02-02 10:45:23,724 - __main__ - INFO - ÇëÇóNewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:45:23,724 - __main__ - INFO - ÇëÇó²ÎÊı: country=us, pageSize=5
+2026-02-02 10:45:26,987 - __main__ - INFO - ÊÕµ½Ç°¶ËÒ³Ãæ·ÃÎÊÇëÇó
+2026-02-02 10:45:26,987 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:45:26] "GET /?ide_webview_request_time=1770000326974 HTTP/1.1" 200 -
+2026-02-02 10:45:27,370 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:45:27] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:45:33,742 - __main__ - ERROR - ¹ú¼ÊĞÂÎÅ»ñÈ¡Ê§°Ü: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/top-headlines?country=us&apiKey=fabce9fea6a545cab936daaaeb9cf95d&pageSize=5 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-02-02 10:45:33,743 - __main__ - INFO - ĞÂÎÅºÏ²¢Íê³É£¬¹² 0 ÌõĞÂÎÅ
+2026-02-02 10:45:33,743 - __main__ - INFO - ±£´æĞÂÎÅÄÚÈİµ½ÎÄ¼ş: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 10:45:33,743 - __main__ - INFO - ĞÂÎÅÄÚÈİ±£´æ³É¹¦£¬¹² 0 ÌõĞÂÎÅ
+2026-02-02 10:45:33,744 - __main__ - INFO - ÊµÊ±ĞÂÎÅ»ñÈ¡Íê³É
+2026-02-02 10:45:33,744 - __main__ - INFO - »ñÈ¡ĞÂÎÅÁĞ±í³É¹¦£¬¹² 0 ÌõĞÂÎÅ
+2026-02-02 10:45:33,744 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:45:33] "GET /get-news HTTP/1.1" 200 -
+2026-02-02 10:46:11,801 - __main__ - INFO - ÊÕµ½»ñÈ¡ĞÂÎÅÁĞ±íÇëÇó
+2026-02-02 10:46:11,802 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ĞÂÎÅÁĞ±í...
+2026-02-02 10:46:11,802 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ÊµÊ±ĞÂÎÅ...
+2026-02-02 10:46:11,802 - __main__ - INFO - »ñÈ¡¹úÄÚĞÂÎÅ...
+2026-02-02 10:46:11,802 - __main__ - INFO - ¿ªÊ¼ÅÀÈ¡ĞÂÀËĞÂÎÅ...
+2026-02-02 10:46:11,802 - __main__ - INFO - ÇëÇóURL: https://news.sina.com.cn/china/
+2026-02-02 10:46:19,423 - __main__ - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2026-02-02 10:46:19,431 - __main__ - INFO - ¿ªÊ¼½âÎöĞÂÎÅ...
+2026-02-02 10:46:19,432 - __main__ - INFO - ĞÂÀËĞÂÎÅÅÀÈ¡Íê³É£¬¹²»ñÈ¡ 0 ÌõĞÂÎÅ
+2026-02-02 10:46:19,433 - __main__ - INFO - »ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:46:19,433 - __main__ - INFO - ¿ªÊ¼»ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:46:19,433 - __main__ - INFO - ¼ÓÔØÅäÖÃÎÄ¼ş: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:46:19,434 - __main__ - INFO - ÅäÖÃÎÄ¼ş¼ÓÔØ³É¹¦
+2026-02-02 10:46:19,434 - __main__ - INFO - ÇëÇóNewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:46:19,434 - __main__ - INFO - ÇëÇó²ÎÊı: country=us, pageSize=5
+2026-02-02 10:46:22,132 - __main__ - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2026-02-02 10:46:22,132 - __main__ - INFO - NewsAPIÏìÓ¦: ok, ¹² 34 ÌõĞÂÎÅ
+2026-02-02 10:46:22,132 - __main__ - INFO - ¹ú¼ÊĞÂÎÅ»ñÈ¡Íê³É£¬¹²»ñÈ¡ 5 ÌõĞÂÎÅ
+2026-02-02 10:46:22,133 - __main__ - INFO - ĞÂÎÅºÏ²¢Íê³É£¬¹² 5 ÌõĞÂÎÅ
+2026-02-02 10:46:22,133 - __main__ - INFO - ±£´æĞÂÎÅÄÚÈİµ½ÎÄ¼ş: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 10:46:22,134 - __main__ - INFO - ĞÂÎÅÄÚÈİ±£´æ³É¹¦£¬¹² 5 ÌõĞÂÎÅ
+2026-02-02 10:46:22,134 - __main__ - INFO - ÊµÊ±ĞÂÎÅ»ñÈ¡Íê³É
+2026-02-02 10:46:22,134 - __main__ - INFO - »ñÈ¡ĞÂÎÅÁĞ±í³É¹¦£¬¹² 5 ÌõĞÂÎÅ
+2026-02-02 10:46:22,134 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:46:22] "GET /get-news HTTP/1.1" 200 -
+2026-02-02 10:47:48,169 - __main__ - INFO - ÊÕµ½Ç°¶ËÒ³Ãæ·ÃÎÊÇëÇó
+2026-02-02 10:47:48,169 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:47:48] "GET /?ide_webview_request_time=1770000326974 HTTP/1.1" 200 -
+2026-02-02 10:47:48,239 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:47:48] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:48:44,907 - __main__ - INFO - ÊÕµ½Ç°¶ËÒ³Ãæ·ÃÎÊÇëÇó
+2026-02-02 10:48:44,907 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:48:44] "GET /?ide_webview_request_time=1770000326974 HTTP/1.1" 200 -
+2026-02-02 10:48:45,170 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:48:45] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:48:47,198 - __main__ - INFO - ÊÕµ½»ñÈ¡ĞÂÎÅÁĞ±íÇëÇó
+2026-02-02 10:48:47,198 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ĞÂÎÅÁĞ±í...
+2026-02-02 10:48:47,198 - __main__ - INFO - ¿ªÊ¼»ñÈ¡ÊµÊ±ĞÂÎÅ...
+2026-02-02 10:48:47,198 - __main__ - INFO - »ñÈ¡¹úÄÚĞÂÎÅ...
+2026-02-02 10:48:47,198 - __main__ - INFO - ¿ªÊ¼ÅÀÈ¡ĞÂÀËĞÂÎÅ...
+2026-02-02 10:48:47,199 - __main__ - INFO - ÇëÇóURL: https://news.sina.com.cn/china/
+2026-02-02 10:48:57,217 - __main__ - ERROR - ĞÂÀËĞÂÎÅÅÀÈ¡Ê§°Ü: HTTPSConnectionPool(host='news.sina.com.cn', port=443): Max retries exceeded with url: /china/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-02-02 10:48:57,217 - __main__ - INFO - »ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:48:57,217 - __main__ - INFO - ¿ªÊ¼»ñÈ¡¹ú¼ÊĞÂÎÅ...
+2026-02-02 10:48:57,217 - __main__ - INFO - ¼ÓÔØÅäÖÃÎÄ¼ş: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:48:57,218 - __main__ - INFO - ÅäÖÃÎÄ¼ş¼ÓÔØ³É¹¦
+2026-02-02 10:48:57,218 - __main__ - INFO - ÇëÇóNewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:48:57,218 - __main__ - INFO - ÇëÇó²ÎÊı: country=us, pageSize=5
+2026-02-02 10:49:00,744 - __main__ - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2026-02-02 10:49:00,744 - __main__ - INFO - NewsAPIÏìÓ¦: ok, ¹² 34 ÌõĞÂÎÅ
+2026-02-02 10:49:00,744 - __main__ - INFO - ¹ú¼ÊĞÂÎÅ»ñÈ¡Íê³É£¬¹²»ñÈ¡ 5 ÌõĞÂÎÅ
+2026-02-02 10:49:00,745 - __main__ - INFO - ĞÂÎÅºÏ²¢Íê³É£¬¹² 5 ÌõĞÂÎÅ
+2026-02-02 10:49:00,745 - __main__ - INFO - ±£´æĞÂÎÅÄÚÈİµ½ÎÄ¼ş: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 10:49:00,746 - __main__ - INFO - ĞÂÎÅÄÚÈİ±£´æ³É¹¦£¬¹² 5 ÌõĞÂÎÅ
+2026-02-02 10:49:00,746 - __main__ - INFO - ÊµÊ±ĞÂÎÅ»ñÈ¡Íê³É
+2026-02-02 10:49:00,746 - __main__ - INFO - »ñÈ¡ĞÂÎÅÁĞ±í³É¹¦£¬¹² 5 ÌõĞÂÎÅ
+2026-02-02 10:49:00,747 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:49:00] "GET /get-news HTTP/1.1" 200 -
+2026-02-02 10:52:31,675 - werkzeug - INFO -  * Detected change in 'D:\\PyCharmProject\\news-subscription-system\\app.py', reloading
+2026-02-02 10:52:32,222 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-02 10:52:32,224 - apscheduler.scheduler - INFO - Added job "send_daily_news" to job store "default"
+2026-02-02 10:52:32,224 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-02 10:52:32,238 - werkzeug - WARNING -  * Debugger is active!
+2026-02-02 10:52:32,244 - werkzeug - INFO -  * Debugger PIN: 603-853-133
+2026-02-02 10:52:59,128 - __main__ - INFO - æ”¶åˆ°å‰ç«¯é¡µé¢è®¿é—®è¯·æ±‚
+2026-02-02 10:52:59,131 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:52:59] "GET /?ide_webview_request_time=1770000326974 HTTP/1.1" 200 -
+2026-02-02 10:52:59,389 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:52:59] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:53:00,752 - __main__ - INFO - æ”¶åˆ°è·å–æ–°é—»åˆ—è¡¨è¯·æ±‚
+2026-02-02 10:53:00,752 - __main__ - INFO - å¼€å§‹è·å–æ–°é—»åˆ—è¡¨...
+2026-02-02 10:53:00,753 - __main__ - INFO - å¼€å§‹è·å–å®æ—¶æ–°é—»...
+2026-02-02 10:53:00,753 - __main__ - INFO - è·å–å›½å†…æ–°é—»...
+2026-02-02 10:53:00,753 - __main__ - INFO - å¼€å§‹çˆ¬å–æ–°æµªæ–°é—»...
+2026-02-02 10:53:00,753 - __main__ - INFO - è¯·æ±‚URL: https://news.sina.com.cn/china/
+2026-02-02 10:53:10,758 - __main__ - ERROR - æ–°æµªæ–°é—»çˆ¬å–å¤±è´¥: HTTPSConnectionPool(host='news.sina.com.cn', port=443): Max retries exceeded with url: /china/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-02-02 10:53:10,759 - __main__ - INFO - è·å–å›½é™…æ–°é—»...
+2026-02-02 10:53:10,759 - __main__ - INFO - å¼€å§‹è·å–å›½é™…æ–°é—»...
+2026-02-02 10:53:10,759 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:53:10,760 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 10:53:10,760 - __main__ - INFO - è¯·æ±‚NewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:53:10,760 - __main__ - INFO - è¯·æ±‚å‚æ•°: country=us, pageSize=5
+2026-02-02 10:53:20,774 - __main__ - ERROR - å›½é™…æ–°é—»è·å–å¤±è´¥: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/top-headlines?country=us&apiKey=fabce9fea6a545cab936daaaeb9cf95d&pageSize=5 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-02-02 10:53:20,774 - __main__ - INFO - æ–°é—»åˆå¹¶å®Œæˆï¼Œå…± 0 æ¡æ–°é—»
+2026-02-02 10:53:20,774 - __main__ - INFO - ä¿å­˜æ–°é—»å†…å®¹åˆ°æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 10:53:20,775 - __main__ - INFO - æ–°é—»å†…å®¹ä¿å­˜æˆåŠŸï¼Œå…± 0 æ¡æ–°é—»
+2026-02-02 10:53:20,775 - __main__ - INFO - å®æ—¶æ–°é—»è·å–å®Œæˆ
+2026-02-02 10:53:20,775 - __main__ - INFO - è·å–æ–°é—»åˆ—è¡¨æˆåŠŸï¼Œå…± 0 æ¡æ–°é—»
+2026-02-02 10:53:20,776 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:53:20] "GET /get-news HTTP/1.1" 200 -
+2026-02-02 10:58:27,823 - __main__ - INFO - æ”¶åˆ°å‰ç«¯é¡µé¢è®¿é—®è¯·æ±‚
+2026-02-02 10:58:27,824 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:58:27] "GET /?ide_webview_request_time=1770000326974 HTTP/1.1" 200 -
+2026-02-02 10:58:28,332 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:58:28] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 10:58:31,740 - __main__ - INFO - æ”¶åˆ°è·å–æ–°é—»åˆ—è¡¨è¯·æ±‚
+2026-02-02 10:58:31,740 - __main__ - INFO - å¼€å§‹è·å–æ–°é—»åˆ—è¡¨...
+2026-02-02 10:58:31,740 - __main__ - INFO - å¼€å§‹è·å–å®æ—¶æ–°é—»...
+2026-02-02 10:58:31,740 - __main__ - INFO - è·å–å›½å†…æ–°é—»...
+2026-02-02 10:58:31,740 - __main__ - INFO - å¼€å§‹çˆ¬å–æ–°æµªæ–°é—»...
+2026-02-02 10:58:31,740 - __main__ - INFO - è¯·æ±‚URL: https://news.sina.com.cn/china/
+2026-02-02 10:58:42,005 - __main__ - ERROR - æ–°æµªæ–°é—»çˆ¬å–å¤±è´¥: HTTPSConnectionPool(host='news.sina.com.cn', port=443): Read timed out. (read timeout=10)
+2026-02-02 10:58:42,006 - __main__ - INFO - è·å–å›½é™…æ–°é—»...
+2026-02-02 10:58:42,006 - __main__ - INFO - å¼€å§‹è·å–å›½é™…æ–°é—»...
+2026-02-02 10:58:42,006 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:58:42,007 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 10:58:42,007 - __main__ - INFO - è¯·æ±‚NewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:58:42,007 - __main__ - INFO - è¯·æ±‚å‚æ•°: country=us, pageSize=5
+2026-02-02 10:58:44,594 - __main__ - INFO - å“åº”çŠ¶æ€ç : 200
+2026-02-02 10:58:44,594 - __main__ - INFO - NewsAPIå“åº”: ok, å…± 34 æ¡æ–°é—»
+2026-02-02 10:58:44,595 - __main__ - INFO - å›½é™…æ–°é—»è·å–å®Œæˆï¼Œå…±è·å– 5 æ¡æ–°é—»
+2026-02-02 10:58:44,596 - __main__ - INFO - æ–°é—»åˆå¹¶å®Œæˆï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 10:58:44,596 - __main__ - INFO - ä¿å­˜æ–°é—»å†…å®¹åˆ°æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 10:58:44,596 - __main__ - INFO - æ–°é—»å†…å®¹ä¿å­˜æˆåŠŸï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 10:58:44,596 - __main__ - INFO - å®æ—¶æ–°é—»è·å–å®Œæˆ
+2026-02-02 10:58:44,596 - __main__ - INFO - è·å–æ–°é—»åˆ—è¡¨æˆåŠŸï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 10:58:44,597 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:58:44] "GET /get-news HTTP/1.1" 200 -
+2026-02-02 10:58:56,940 - __main__ - INFO - æ”¶åˆ°æ‰‹åŠ¨å‘é€é‚®ä»¶è¯·æ±‚
+2026-02-02 10:58:56,940 - __main__ - INFO - å¼€å§‹æ‰§è¡Œæ‰‹åŠ¨å‘é€é‚®ä»¶ä»»åŠ¡...
+2026-02-02 10:58:56,941 - __main__ - INFO - å¼€å§‹æ‰§è¡Œå®šæ—¶å‘é€æ–°é—»ä»»åŠ¡...
+2026-02-02 10:58:56,941 - __main__ - INFO - åŠ è½½è®¢é˜…ç”¨æˆ·æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\subscribers.json
+2026-02-02 10:58:56,941 - __main__ - INFO - è®¢é˜…ç”¨æˆ·åŠ è½½æˆåŠŸï¼Œå…± 1 ä¸ªç”¨æˆ·
+2026-02-02 10:58:56,941 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:58:56,942 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 10:58:56,942 - __main__ - INFO - æ‰¾åˆ° 1 ä¸ªæ´»è·ƒè®¢é˜…ç”¨æˆ·
+2026-02-02 10:58:56,942 - __main__ - INFO - å‡†å¤‡å‘é€æ–°é—»åˆ°: 1093926117@qq.com
+2026-02-02 10:58:56,942 - __main__ - INFO - å¼€å§‹ç”Ÿæˆæ–°é—»é‚®ä»¶å†…å®¹...
+2026-02-02 10:58:56,942 - __main__ - INFO - è·å–æœ€æ–°æ–°é—»æ•°æ®...
+2026-02-02 10:58:56,942 - __main__ - INFO - å¼€å§‹è·å–å®æ—¶æ–°é—»...
+2026-02-02 10:58:56,942 - __main__ - INFO - è·å–å›½å†…æ–°é—»...
+2026-02-02 10:58:56,943 - __main__ - INFO - å¼€å§‹çˆ¬å–æ–°æµªæ–°é—»...
+2026-02-02 10:58:56,943 - __main__ - INFO - è¯·æ±‚URL: https://news.sina.com.cn/china/
+2026-02-02 10:59:03,972 - __main__ - INFO - å“åº”çŠ¶æ€ç : 200
+2026-02-02 10:59:03,980 - __main__ - INFO - å¼€å§‹è§£ææ–°é—»...
+2026-02-02 10:59:03,981 - __main__ - INFO - æ–°æµªæ–°é—»çˆ¬å–å®Œæˆï¼Œå…±è·å– 0 æ¡æ–°é—»
+2026-02-02 10:59:03,983 - __main__ - INFO - è·å–å›½é™…æ–°é—»...
+2026-02-02 10:59:03,983 - __main__ - INFO - å¼€å§‹è·å–å›½é™…æ–°é—»...
+2026-02-02 10:59:03,983 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:59:03,983 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 10:59:03,984 - __main__ - INFO - è¯·æ±‚NewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 10:59:03,984 - __main__ - INFO - è¯·æ±‚å‚æ•°: country=us, pageSize=5
+2026-02-02 10:59:21,704 - __main__ - INFO - å“åº”çŠ¶æ€ç : 200
+2026-02-02 10:59:21,705 - __main__ - INFO - NewsAPIå“åº”: ok, å…± 34 æ¡æ–°é—»
+2026-02-02 10:59:21,705 - __main__ - INFO - å›½é™…æ–°é—»è·å–å®Œæˆï¼Œå…±è·å– 5 æ¡æ–°é—»
+2026-02-02 10:59:21,706 - __main__ - INFO - æ–°é—»åˆå¹¶å®Œæˆï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 10:59:21,706 - __main__ - INFO - ä¿å­˜æ–°é—»å†…å®¹åˆ°æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 10:59:21,706 - __main__ - INFO - æ–°é—»å†…å®¹ä¿å­˜æˆåŠŸï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 10:59:21,706 - __main__ - INFO - å®æ—¶æ–°é—»è·å–å®Œæˆ
+2026-02-02 10:59:21,706 - __main__ - INFO - è·å–åˆ° 5 æ¡æ–°é—»
+2026-02-02 10:59:21,707 - __main__ - INFO - æ–°é—»åˆ†ç±»å®Œæˆï¼Œå…± 1 ä¸ªåˆ†ç±»
+2026-02-02 10:59:21,707 - __main__ - INFO - ç”Ÿæˆ å›½é™…æ–°é—» åˆ†ç±»å†…å®¹ï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 10:59:21,707 - __main__ - INFO - æ–°é—»é‚®ä»¶å†…å®¹ç”Ÿæˆå®Œæˆ
+2026-02-02 10:59:21,707 - __main__ - INFO - ç”Ÿæˆé‚®ä»¶ä¸»é¢˜: æ¯æ—¥æ–°é—» - 2026-02-02
+2026-02-02 10:59:21,707 - __main__ - INFO - å‡†å¤‡å‘é€é‚®ä»¶åˆ°: 1093926117@qq.comï¼Œä¸»é¢˜: æ¯æ—¥æ–°é—» - 2026-02-02
+2026-02-02 10:59:21,707 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 10:59:21,708 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 10:59:21,708 - __main__ - INFO - æ­£åœ¨è¿æ¥SMTPæœåŠ¡å™¨: smtp.qq.com:465
+2026-02-02 10:59:21,774 - __main__ - ERROR - é‚®ä»¶å‘é€å¤±è´¥: [WinError 10054] è¿œç¨‹ä¸»æœºå¼ºè¿«å…³é—­äº†ä¸€ä¸ªç°æœ‰çš„è¿æ¥ã€‚
+2026-02-02 10:59:21,774 - __main__ - WARNING - æ–°é—»é‚®ä»¶å‘é€å¤±è´¥åˆ°: 1093926117@qq.com
+2026-02-02 10:59:21,774 - __main__ - INFO - å®šæ—¶å‘é€æ–°é—»ä»»åŠ¡æ‰§è¡Œå®Œæˆ
+2026-02-02 10:59:21,775 - __main__ - INFO - æ‰‹åŠ¨å‘é€é‚®ä»¶ä»»åŠ¡æ‰§è¡Œå®Œæˆ
+2026-02-02 10:59:21,775 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 10:59:21] "POST /send-news HTTP/1.1" 200 -
+2026-02-02 11:01:41,206 - __main__ - INFO - æ”¶åˆ°å‰ç«¯é¡µé¢è®¿é—®è¯·æ±‚
+2026-02-02 11:01:41,207 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 11:01:41] "GET /?ide_webview_request_time=1770000326974 HTTP/1.1" 200 -
+2026-02-02 11:01:41,307 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 11:01:41] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 11:01:42,918 - __main__ - INFO - æ”¶åˆ°è·å–æ–°é—»åˆ—è¡¨è¯·æ±‚
+2026-02-02 11:01:42,918 - __main__ - INFO - å¼€å§‹è·å–æ–°é—»åˆ—è¡¨...
+2026-02-02 11:01:42,918 - __main__ - INFO - å¼€å§‹è·å–å®æ—¶æ–°é—»...
+2026-02-02 11:01:42,918 - __main__ - INFO - è·å–å›½å†…æ–°é—»...
+2026-02-02 11:01:42,919 - __main__ - INFO - å¼€å§‹çˆ¬å–æ–°æµªæ–°é—»...
+2026-02-02 11:01:42,919 - __main__ - INFO - è¯·æ±‚URL: https://news.sina.com.cn/china/
+2026-02-02 11:01:53,176 - __main__ - ERROR - æ–°æµªæ–°é—»çˆ¬å–å¤±è´¥: HTTPSConnectionPool(host='news.sina.com.cn', port=443): Read timed out. (read timeout=10)
+2026-02-02 11:01:53,176 - __main__ - INFO - è·å–å›½é™…æ–°é—»...
+2026-02-02 11:01:53,176 - __main__ - INFO - å¼€å§‹è·å–å›½é™…æ–°é—»...
+2026-02-02 11:01:53,176 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 11:01:53,177 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 11:01:53,177 - __main__ - INFO - è¯·æ±‚NewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 11:01:53,177 - __main__ - INFO - è¯·æ±‚å‚æ•°: country=us, pageSize=5
+2026-02-02 11:02:06,470 - __main__ - INFO - å“åº”çŠ¶æ€ç : 200
+2026-02-02 11:02:06,470 - __main__ - INFO - NewsAPIå“åº”: ok, å…± 34 æ¡æ–°é—»
+2026-02-02 11:02:06,470 - __main__ - INFO - å›½é™…æ–°é—»è·å–å®Œæˆï¼Œå…±è·å– 5 æ¡æ–°é—»
+2026-02-02 11:02:06,471 - __main__ - INFO - æ–°é—»åˆå¹¶å®Œæˆï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 11:02:06,471 - __main__ - INFO - ä¿å­˜æ–°é—»å†…å®¹åˆ°æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 11:02:06,472 - __main__ - INFO - æ–°é—»å†…å®¹ä¿å­˜æˆåŠŸï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 11:02:06,472 - __main__ - INFO - å®æ—¶æ–°é—»è·å–å®Œæˆ
+2026-02-02 11:02:06,472 - __main__ - INFO - è·å–æ–°é—»åˆ—è¡¨æˆåŠŸï¼Œå…± 5 æ¡æ–°é—»
+2026-02-02 11:02:06,472 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 11:02:06] "GET /get-news HTTP/1.1" 200 -
+2026-02-02 11:02:46,099 - __main__ - INFO - æ”¶åˆ°å‰ç«¯é¡µé¢è®¿é—®è¯·æ±‚
+2026-02-02 11:02:46,100 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 11:02:46] "GET /?ide_webview_request_time=1770000326974 HTTP/1.1" 200 -
+2026-02-02 11:02:46,356 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 11:02:46] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2026-02-02 11:02:47,882 - __main__ - INFO - æ”¶åˆ°æ‰‹åŠ¨å‘é€é‚®ä»¶è¯·æ±‚
+2026-02-02 11:02:47,882 - __main__ - INFO - å¼€å§‹æ‰§è¡Œæ‰‹åŠ¨å‘é€é‚®ä»¶ä»»åŠ¡...
+2026-02-02 11:02:47,882 - __main__ - INFO - å¼€å§‹æ‰§è¡Œå®šæ—¶å‘é€æ–°é—»ä»»åŠ¡...
+2026-02-02 11:02:47,882 - __main__ - INFO - åŠ è½½è®¢é˜…ç”¨æˆ·æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\subscribers.json
+2026-02-02 11:02:47,883 - __main__ - INFO - è®¢é˜…ç”¨æˆ·åŠ è½½æˆåŠŸï¼Œå…± 1 ä¸ªç”¨æˆ·
+2026-02-02 11:02:47,883 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 11:02:47,883 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 11:02:47,883 - __main__ - INFO - æ‰¾åˆ° 1 ä¸ªæ´»è·ƒè®¢é˜…ç”¨æˆ·
+2026-02-02 11:02:47,883 - __main__ - INFO - å‡†å¤‡å‘é€æ–°é—»åˆ°: 1093926117@qq.com
+2026-02-02 11:02:47,883 - __main__ - INFO - å¼€å§‹ç”Ÿæˆæ–°é—»é‚®ä»¶å†…å®¹...
+2026-02-02 11:02:47,883 - __main__ - INFO - è·å–æœ€æ–°æ–°é—»æ•°æ®...
+2026-02-02 11:02:47,884 - __main__ - INFO - å¼€å§‹è·å–å®æ—¶æ–°é—»...
+2026-02-02 11:02:47,884 - __main__ - INFO - è·å–å›½å†…æ–°é—»...
+2026-02-02 11:02:47,884 - __main__ - INFO - å¼€å§‹çˆ¬å–æ–°æµªæ–°é—»...
+2026-02-02 11:02:47,884 - __main__ - INFO - è¯·æ±‚URL: https://news.sina.com.cn/china/
+2026-02-02 11:02:57,887 - __main__ - ERROR - æ–°æµªæ–°é—»çˆ¬å–å¤±è´¥: HTTPSConnectionPool(host='news.sina.com.cn', port=443): Max retries exceeded with url: /china/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-02-02 11:02:57,888 - __main__ - INFO - è·å–å›½é™…æ–°é—»...
+2026-02-02 11:02:57,888 - __main__ - INFO - å¼€å§‹è·å–å›½é™…æ–°é—»...
+2026-02-02 11:02:57,889 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 11:02:57,889 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 11:02:57,889 - __main__ - INFO - è¯·æ±‚NewsAPI URL: https://newsapi.org/v2/top-headlines
+2026-02-02 11:02:57,889 - __main__ - INFO - è¯·æ±‚å‚æ•°: country=us, pageSize=5
+2026-02-02 11:03:07,896 - __main__ - ERROR - å›½é™…æ–°é—»è·å–å¤±è´¥: HTTPSConnectionPool(host='newsapi.org', port=443): Max retries exceeded with url: /v2/top-headlines?country=us&apiKey=fabce9fea6a545cab936daaaeb9cf95d&pageSize=5 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-02-02 11:03:07,897 - __main__ - INFO - æ–°é—»åˆå¹¶å®Œæˆï¼Œå…± 0 æ¡æ–°é—»
+2026-02-02 11:03:07,897 - __main__ - INFO - ä¿å­˜æ–°é—»å†…å®¹åˆ°æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\news.json
+2026-02-02 11:03:07,898 - __main__ - INFO - æ–°é—»å†…å®¹ä¿å­˜æˆåŠŸï¼Œå…± 0 æ¡æ–°é—»
+2026-02-02 11:03:07,898 - __main__ - INFO - å®æ—¶æ–°é—»è·å–å®Œæˆ
+2026-02-02 11:03:07,898 - __main__ - INFO - è·å–åˆ° 0 æ¡æ–°é—»
+2026-02-02 11:03:07,898 - __main__ - INFO - æ–°é—»åˆ†ç±»å®Œæˆï¼Œå…± 0 ä¸ªåˆ†ç±»
+2026-02-02 11:03:07,898 - __main__ - INFO - æ–°é—»é‚®ä»¶å†…å®¹ç”Ÿæˆå®Œæˆ
+2026-02-02 11:03:07,898 - __main__ - INFO - ç”Ÿæˆé‚®ä»¶ä¸»é¢˜: æ¯æ—¥æ–°é—» - 2026-02-02
+2026-02-02 11:03:07,899 - __main__ - INFO - å‡†å¤‡å‘é€é‚®ä»¶åˆ°: 1093926117@qq.comï¼Œä¸»é¢˜: æ¯æ—¥æ–°é—» - 2026-02-02
+2026-02-02 11:03:07,899 - __main__ - INFO - åŠ è½½é…ç½®æ–‡ä»¶: D:\PyCharmProject\news-subscription-system\config.json
+2026-02-02 11:03:07,899 - __main__ - INFO - é…ç½®æ–‡ä»¶åŠ è½½æˆåŠŸ
+2026-02-02 11:03:07,899 - __main__ - INFO - æ­£åœ¨è¿æ¥SMTPæœåŠ¡å™¨: smtp.qq.com:465
+2026-02-02 11:03:07,966 - __main__ - ERROR - é‚®ä»¶å‘é€å¤±è´¥: [WinError 10054] è¿œç¨‹ä¸»æœºå¼ºè¿«å…³é—­äº†ä¸€ä¸ªç°æœ‰çš„è¿æ¥ã€‚
+2026-02-02 11:03:07,967 - __main__ - WARNING - æ–°é—»é‚®ä»¶å‘é€å¤±è´¥åˆ°: 1093926117@qq.com
+2026-02-02 11:03:07,967 - __main__ - INFO - å®šæ—¶å‘é€æ–°é—»ä»»åŠ¡æ‰§è¡Œå®Œæˆ
+2026-02-02 11:03:07,967 - __main__ - INFO - æ‰‹åŠ¨å‘é€é‚®ä»¶ä»»åŠ¡æ‰§è¡Œå®Œæˆ
+2026-02-02 11:03:07,968 - werkzeug - INFO - 127.0.0.1 - - [02/Feb/2026 11:03:07] "POST /send-news HTTP/1.1" 200 -
