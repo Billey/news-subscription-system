@@ -292,6 +292,15 @@ def unsubscribe():
     save_subscribers(subscribers)
     return jsonify({"status": "success", "message": "取消订阅成功"}), 200
 
+# 获取新闻列表接口
+@app.route('/get-news', methods=['GET'])
+def get_news():
+    try:
+        news_list = get_real_time_news()
+        return jsonify({"status": "success", "news": news_list}), 200
+    except Exception as e:
+        return jsonify({"status": "error", "message": f"获取新闻失败: {str(e)}"}), 500
+
 # 手动发送邮件接口
 @app.route('/send-news', methods=['POST'])
 def send_news_manual():

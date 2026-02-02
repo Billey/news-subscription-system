@@ -64,6 +64,17 @@
         <button onclick="sendNews()" style="background-color: #2196F3;">立即发送新闻</button>
     </div>
     
+    <hr>
+    
+    <div class="form-group">
+        <button onclick="fetchNews()" style="background-color: #ff9800;">查看新闻内容</button>
+    </div>
+    
+    <div id="news-container" style="margin-top: 20px; display: none;">
+        <h3>最新新闻</h3>
+        <div id="news-list"></div>
+    </div>
+    
     <div id="message" class="message" style="display: none;"></div>
     
     <script>
@@ -116,6 +127,60 @@
             })
             .catch(error => {
                 showMessage('发送失败，请稍后重试', 'error');
+            });
+        }
+        
+        function fetchNews() {
+            const message = document.getElementById('message');
+            const newsContainer = document.getElementById('news-container');
+            const newsList = document.getElementById('news-list');
+            
+            // 显示加载状态
+            newsContainer.style.display = 'block';
+            newsList.innerHTML = '<p>正在获取新闻...</p>';
+            
+            fetch('/get-news')
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'success') {
+                    if (data.news && data.news.length > 0) {
+                        // 按分类组织新闻
+                        const categories = {};
+                        data.news.forEach(news => {
+                            const category = news.category || '未分类';
+                            if (!categories[category]) {
+                                categories[category] = [];
+                            }
+                            categories[category].push(news);
+                        });
+                        
+                        // 生成新闻列表HTML
+                        let html = '';
+                        Object.entries(categories).forEach(([category, items]) => {
+                            html += `<h4>${category}</h4>`;
+                            items.forEach(news => {
+                                html += `
+                                <div style="margin: 10px 0; padding: 10px; border-left: 3px solid #4CAF50;">
+                                    <h5>${news.title}</h5>
+                                    <p>${news.content}</p>
+                                    <p><small>发布日期: ${news.publish_date}</small></p>
+                                </div>
+                                `;
+                            });
+                            html += '<hr>';
+                        });
+                        newsList.innerHTML = html;
+                    } else {
+                        newsList.innerHTML = '<p>暂无新闻数据</p>';
+                    }
+                } else {
+                    showMessage(data.message, 'error');
+                    newsContainer.style.display = 'none';
+                }
+            })
+            .catch(error => {
+                showMessage('获取新闻失败，请稍后重试', 'error');
+                newsContainer.style.display = 'none';
             });
         }
         
